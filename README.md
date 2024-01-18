@@ -1,5 +1,5 @@
 # examen_ordinario_2023_2024_virginia_diaz_quilez
-# Proyecto Pirámide de Asteriscos
+# Ejercicio 2. Proyecto Pirámide de Asteriscos
 
 Este proyecto es un pequeño programa en Python que genera una pirámide de asteriscos en la consola. El usuario introduce el número de niveles de la pirámide, y el programa muestra una pirámide de asteriscos centrada con ese número de niveles.
 
